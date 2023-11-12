@@ -1,4 +1,4 @@
-# C01  Simple C Scripts
+# C01  Simple C Programs
 - ex00 (ft_ft) -> Takes a pointer to an integer as a parameter.
 - ex01 (ft_ultimate_ft) -> Takes a pointer to a pointer to a pointer... to an integer.
 - ex02 (ft_swap) -> Takes two integer pointers as parameters and swaps the values they point to.
